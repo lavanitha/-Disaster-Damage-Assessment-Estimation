@@ -31,26 +31,26 @@ The system integrates change detection algorithms, building damage segmentation,
 - Heatmap visualization with confidence scoring
 - Damage percentage quantification (0-100%)
 
-  ### 🔬 Model Architecture
+### 2. Model Architecture
 - **ChangeFormer (Dual-Encoder Transformer)**
 - Semantic segmentation-based change detection
 - Pixel-level damage classification
 - Pre- and post-event satellite image comparison
 
-### 2. Damage Segmentation
+### 3. Damage Segmentation
 - Single image damage assessment
 - Building integrity evaluation
 - Infrastructure impact analysis
 - Debris coverage estimation
 - Zone-based spatial analysis (4×4 grid resolution)
 
-### 3. Damage Estimation Engine
+### 4. Damage Estimation Engine
 - Comprehensive damage metric calculation
 - Multi-class infrastructure assessment
 - Severity classification (CRITICAL | SEVERE | MODERATE | MINOR | MINIMAL)
 - Affected zone identification and counting
 
-### 4. Combined Analysis Pipeline
+### 5. Combined Analysis Pipeline
 - Multi-model fusion (Change Detection + Damage Estimation)
 - Weighted composite analysis (60% change detection, 40% damage estimation)
 - Dual visualization outputs
