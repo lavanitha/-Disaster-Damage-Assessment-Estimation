@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+.env
+.venv
+venv/
+*.egg-info/
+.eggs/
+
+# Node
+node_modules/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Generated mask output (long paths on Windows)
+**/predict_ChangeFormerV6/
+**/samples_DSIFN/predict_*/
+**/samples_LEVIR/predict_*/
+
