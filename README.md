@@ -6,8 +6,13 @@
 ![React](https://img.shields.io/badge/React-19+-61dafb?style=flat-square&logo=react)
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
-![PyTorch](https://img.shields.io/badge/PyTorch-2.2+-ee4c2c?style=flat-square&logo=pytorch)
-
+![AI](https://img.shields.io/badge/AI-Deep%20Learning-blue)
+![Model](https://img.shields.io/badge/Model-ChangeFormer-green)
+![Architecture](https://img.shields.io/badge/Architecture-Dual%20Encoder-orange)
+![Dataset](https://img.shields.io/badge/Dataset-xView2-red)
+![Hackathon](https://img.shields.io/badge/Award-BlazeAI%20Tail%20Hackathon%20Winner-gold)
+![License](https://img.shields.io/badge/License-Open%20Source-lightgrey)
+![Deployment](https://img.shields.io/badge/Deployment-Full%20Stack%20Scalable-purple)
 ---
 
 ## Overview
@@ -25,6 +30,12 @@ The system integrates change detection algorithms, building damage segmentation,
 - Satellite image pre/post-disaster analysis
 - Heatmap visualization with confidence scoring
 - Damage percentage quantification (0-100%)
+
+  ### 🔬 Model Architecture
+- **ChangeFormer (Dual-Encoder Transformer)**
+- Semantic segmentation-based change detection
+- Pixel-level damage classification
+- Pre- and post-event satellite image comparison
 
 ### 2. Damage Segmentation
 - Single image damage assessment
@@ -634,5 +645,13 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) file for 
 ---
 
 **ResQ Sentinel** - Advanced Geospatial Intelligence for Disaster Response Operations
+## 🏆 Achievement
 
-*Built with precision. Deployed with confidence. Designed for impact.*
+🥇 **Winner – BlazeAI Tail Hackathon**  
+Recognized for outstanding performer team amoung top 60 teams , top in innovation in AI-driven disaster impact assessment.
+---
+## 👩‍💻 Author
+
+**Mary Lavanitha Sunder**  
+AI | Machine Learning | Disaster Intelligence Systems  
+
