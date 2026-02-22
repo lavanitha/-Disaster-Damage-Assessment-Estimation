@@ -644,13 +644,15 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) file for 
 
 ---
 
-**ResQ Sentinel** - Advanced Geospatial Intelligence for Disaster Response Operations
-## 🏆 Achievement
+**ResQ Sentinel** - Advanced Geospatial Intelligence for Disaster Response Operations.
+##  Achievement
 
-🥇 **Winner – BlazeAI Tail Hackathon**  
+ **Winner – BlazeAI Tail Hackathon**  
+---
+
 Recognized for outstanding performer team amoung top 60 teams , top in innovation in AI-driven disaster impact assessment.
 ---
-## 👩‍💻 Author
+##  Author
 
 **Mary Lavanitha Sunder**  
 AI | Machine Learning | Disaster Intelligence Systems  
